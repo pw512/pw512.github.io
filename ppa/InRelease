@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Date: Mon, 24 Feb 2020 16:12:18 UTC
+MD5Sum:
+ 1c07e4357c41e39607e7aaae9d96442d              907 Packages
+ 7738e0b80db5270bcc399ef9a0cab3f4              532 Packages.gz
+ 8d7b37d7fb19a61e9512e310e4b4dc39               36 Release
+SHA1:
+ c5c509de1c35ea8a6e4421b022f233b7dd02b4d3              907 Packages
+ 78e294dd17a4d2b87254db4fd25796a747fa5e7b              532 Packages.gz
+ d3bea5d200fbd39f62f9e098792047f22c30ce0f               36 Release
+SHA256:
+ 2c7877d9c846b8cdc47a1f54829e0bc7a5ca10be7778a98d0119860e0e808170              907 Packages
+ a3a5d066936776aac20611b68e8f530efe449ec45d68bd2ba4feecfd0e44cf92              532 Packages.gz
+ e71ad26007088594373d3d7b573a95cc534bd8e7821594bdf54b09bc6fad5c6d               36 Release
+SHA512:
+ 1abfc62c1154cab496fef71780fd6b50ec12ef3ac7e430663819c4e55b410b3e9532f627c3c6bb9fa8788a9a6672b6a0c7cbb39cf85e0f73df108156454e8cf9              907 Packages
+ 8bc723dad49db93649b889c046b29f9f3da5c10b7a094b9812b8a0c8f456bfe1acb9e7c6c59ceaf44e53fc01c1a73d4e9b815b88cf442693cba1a86434bb57b5              532 Packages.gz
+ ff18bed17590e6ef0c35d097c30dcb2b1f92342a6ab2f32552e78603a32d28185ab9975e3d36d28dfdbc17b1472cacb7d4cf91ef6328eae0b2b37c7460e30b2d               36 Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJeU/Y1AAoJEE0sRfG4opNiL2YP/RlPoGXKO7zKCsCKHtTTXY7g
+yfCGu+ifoFVaq6ewl54DUhGX7N46sai420zdM5pK6uTFdpXEeuSHk2r+slNqhGGU
+SBvEIE7lWgqMFS8zdjowz0HM0jEHe++5zgcmMzVZhAEJYq1bC/FmyodbyLbrl/q2
+xQo9WzMN9gTlk3w3XyYPmGXQNHndVeIIAAJvAKcAD2X9M9RNfBg/Ry7PcP0/8zDV
+EOrTngd7e3V24KVQKrMjLoUZM1rj7olmQi1EqhsLdfIzPpaEe3KWW57mbvmYalDS
+RUP8ssE+jqEza5xQZ9qm5fuR5fkWuSoi6XCXQ4xMM/z6xCaN0LO7K0n6HE91VvxA
+Pi+C6LPHvuIl8pZld4j0pQ+w4pLctpLxooYi9M1syJ51As2UJMZZjw7l4n5/VSek
+1LYk3mEmmIaUIvoqBK0H0tRXWkvk4zjbP/ffIxj8neNcGHKNtcFmLnyZYrQoF4WM
+QI3VgnXcLKp/MrfGKNoSqv2NLU0VHJw/U/yzrm5XypVUqmApJ/i6SbYMpELnwUYF
+uWE1ZPw0JlRKnKjvdfC4Y9MyVMEWZoR1oVxWcHV/dtcer2r1+FxY6YmuGfOaDNxi
+91pWAJT08xyf4FaTLHLULwguYmb4T+juNZ4NANPB8UEk+y+M0dvRUDlxKVHIW8Uu
+ljUMgnp74kzgMpta1gxc
+=FSLA
+-----END PGP SIGNATURE-----
