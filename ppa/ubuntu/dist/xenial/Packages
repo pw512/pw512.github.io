@@ -17,7 +17,7 @@ Depends: libdb4.8-dev,
   qttools5-dev-tools,
   libprotobuf-dev,
   protobuf-compiler
-Filename: pool/scribe-ubuntu-16.04-x64-desktop.deb
+Filename: pool/stable/amd64/scribe-ubuntu-16.04-x64-desktop.deb
 Size: 9683096
 MD5sum: 1c6ba127aa0381bc608910c8fdb5e17e
 SHA1: 725f69240bcc7c94aeced736601b8034a2c63871
