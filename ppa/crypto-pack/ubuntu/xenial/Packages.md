@@ -1,3 +1,4 @@
+```
 Package: 1x2coin-crypto
 Version: 1-master-ff9d508
 Architecture: amd64
@@ -2792,3 +2793,4 @@ MD5sum: dde154c7eb8f8c794159b816b502fb35
 SHA1: 1d079c31e828083f64e3c95a72671f8d5dbc5606
 SHA256: 72339dc873c5fd2dc41b03ac09462bddc33336a21a4f3002eadfed29600ff263
 Description: https://github.com/zoombacoin/zoomba/
+```
